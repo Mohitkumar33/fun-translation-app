@@ -38,6 +38,11 @@ textarea {
     border: 3px solid rgb(177, 7, 126);
     border-radius: 00.5rem;
   }
+#output-txt {
+    font-weight: bold;
+    background-color: white;
+
+}
 
   /* footer */
 
