@@ -2,20 +2,63 @@
 
 body {
     font-family: 'Gemunu Libre', sans-serif;
+    margin:0%;
+    background-color: rgb(139, 117, 175);
 }
 
 .container {
     max-width: fit-content;
     margin: auto;
     text-align: center;
+    
+}
+
+#heading {
+    text-align: center;
+    background-color: blueviolet;
+    margin-top:0px;
+    padding: 1rem 0rem;
 }
 
 button {
     display: block;
     font-family: 'Gemunu Libre', sans-serif;
     padding: 0.5rem;
-    margin: auto;
+    /* margin: auto; */
     margin-top: 1rem;
     margin-bottom: 1rem;
+    background-color: blueviolet;
     
 }
+
+textarea {
+    /* margin: auto; */
+    font-size: larger;
+    margin-bottom: 1rem;
+    border: 3px solid rgb(177, 7, 126);
+    border-radius: 00.5rem;
+  }
+
+  /* footer */
+
+.footer {
+    background-color: blueviolet;
+    padding: 1rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+  }
+  
+  .footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+  }
+  
+  .footer .link {
+    color: white;
+  }
+
+  .list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+  }
