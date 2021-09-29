@@ -24,7 +24,7 @@ button {
     display: block;
     font-family: 'Gemunu Libre', sans-serif;
     padding: 0.5rem;
-    /* margin: auto; */
+    margin: auto;
     margin-top: 1rem;
     margin-bottom: 1rem;
     background-color: blueviolet;
